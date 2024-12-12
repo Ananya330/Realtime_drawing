@@ -1,0 +1,40 @@
+body{
+
+    font-family: "Parkinsans", sans-serif;   
+    background: radial-gradient( #c7ffdd, #fbd786, #f7797d);
+}
+
+.heading {
+
+    box-shadow: 5px 5px 40px  steelblue;
+    margin-top:10px ;
+    padding:15px;
+}
+
+.note{
+
+color: steelblue;    
+
+
+
+}
+
+footer{
+
+background-color:#c7ffdd;
+font-size:20px;
+text-align: center;
+position: fixed;
+bottom:10;
+text-shadow:2px 2px #2757c589;
+width:100%;
+line-height:2 ;
+
+}
+
+canvas{
+
+background-color: rgb(148, 211, 211);  
+border-radius: 19px;
+box-shadow: 5px 5px 40px ;
+}
